@@ -88,7 +88,8 @@
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="40dp"
         android:paddingVertical="16dp"
+        android:backgroundTint="@color/color_black"
         android:text="@string/create_account"
-        android:textColor="@color/color_black" />
+        android:textColor="@color/color_blue_dark" />
 
 </LinearLayout>

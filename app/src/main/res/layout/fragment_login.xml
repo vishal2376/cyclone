@@ -88,9 +88,10 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="32dp"
+        android:backgroundTint="@color/color_black"
         android:fontFamily="@font/montserrat"
         android:paddingVertical="16dp"
         android:text="@string/login"
-        android:textColor="@color/color_black" />
+        android:textColor="@color/color_blue_dark" />
 
 </LinearLayout>
