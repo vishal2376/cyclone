@@ -11,4 +11,11 @@
     <string name="create_new_account">Create New Account</string>
     <string name="create_account">Create Account</string>
     <string name="name">Name</string>
+    <string name="precautions">Precautions</string>
+    <string name="help">Help</string>
+    <string name="hello_user">Hello User</string>
+    <string name="cyclone_status">Cyclone Status</string>
+    <string name="you_are_safe">You Are Safe</string>
+    <string name="last_status">Last Status: 3.4 \n40Km away</string>
+    <string name="support">Support</string>
 </resources>

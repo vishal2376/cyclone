@@ -87,8 +87,8 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="40dp"
-        android:textColor="@color/color_black"
         android:paddingVertical="16dp"
-        android:text="@string/create_account" />
+        android:text="@string/create_account"
+        android:textColor="@color/color_black" />
 
 </LinearLayout>
