@@ -30,7 +30,7 @@
             android:layout_marginTop="16dp"
             android:fontFamily="@font/roboto"
             android:paddingHorizontal="16dp"
-            android:text="@string/precautions_desc"
+            android:text="@string/precautions"
             android:textAlignment="center"
             android:textColor="@color/color_black"
             android:textSize="24sp" />
