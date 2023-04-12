@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281743307749",
+    "project_id": "cyclone-bf230",
+    "storage_bucket": "cyclone-bf230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281743307749:android:2aac0a1b798d33d1f3b50c",
+        "android_client_info": {
+          "package_name": "com.vishal2376.cyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281743307749-ab91dfqaggors2dlg59ubs0tnsh48oc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwHcg6FeO875zObmC5pxARBD4licJK0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281743307749-ab91dfqaggors2dlg59ubs0tnsh48oc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
